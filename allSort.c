@@ -1,4 +1,4 @@
-/*Selection Sort: Every element is compared with its subsequent following element*/
+/*Selection Sort: Every element is compared with all its subsequent following elements*/
 /*   Bubble Sort: Every element is compared with immediate next element only*/
 #include<stdio.h>
 void SelectionSort(int *,int);

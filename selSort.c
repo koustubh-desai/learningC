@@ -1,3 +1,4 @@
+/*Selection Sort: Every element is compared with its subsequent following element*/
 /*#include<stdio.h>
 void SelectionSort(int *,int);
 main(){
